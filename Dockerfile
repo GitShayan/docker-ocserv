@@ -1,4 +1,4 @@
-FROM alpine:3.17.0
+FROM arm64v8/alpine:3.17.0
 
 LABEL maintainer="Amin Vakil <info@aminvakil.com>"
 
